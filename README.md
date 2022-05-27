@@ -1,5 +1,5 @@
 # rest-with-firebase
-a basic RESTful API build with firebase on node and express
+A basic RESTful API build with firebase on node and express
 
 INSTALL
   - run "npm install"
